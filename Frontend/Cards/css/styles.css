@@ -72,20 +72,20 @@ article{
 }
 
 .B{
-    background-image: url("img/batman.jpg");
+    background-image: url("../img/batman.jpg");
     background-position: -400px 0px;
     background-size: 1100px;
 }
 
 .W{
-    background-image: url("img/wonderw.jpg");
+    background-image: url("../img/wonderw.jpg");
     background-position: -200px 0px;
     background-size: 800px;
 
 }
 
 .S{
-    background-image: url("img/superman.jpg");
+    background-image: url("../img/superman.jpg");
     background-position: -230px -40px;
     background-size: 900px;
 }
